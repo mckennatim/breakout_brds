@@ -11,11 +11,11 @@ I2C
 - [16 Bit I2C ADS1115 Module ADC 4 Channel with Pro Gain Amplifier](#ads115-4channel-16bit-adc-wamp)
 
 SPI
-- [MAX31856 Universal Thermocouple Amplifier](max31856-universal-thermocouple-amplifier)
+- [MAX31856 Universal Thermocouple Amplifier](#max31856-universal-thermocouple-amplifier)
 
 ## Power
-- [Yurobot power supply](Yurobot-power-supply)
-- [Tiny 12V to 5V Buck Converter](Tiny-12V-to-5V-Buck-Converter)
+- [Yurobot power supply](#yurobot-power-supply)
+- [Tiny 12V to 5V Buck Converter](#tiny-12v-to-5v-buck-converter)
 
 
 ## sensors
@@ -225,10 +225,33 @@ The [MAX31856](https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifi
 The [MAX31856](https://learn.adafruit.com/adafruit-max31856-thermocouple-amplifier) Thermocouple amplifier/converter for K-type thermocouple. This converter communicates over 4-wire SPI. 
 
 
-##  Tiny 12V to 5V Buck Converter
+## Tiny 12V to 5V Buck Converter
 
 ![Buck Coverter 12v to 5v](./Tiny%2012V%20to%205V%20Buck%20Converter.png)
 
 ## Yurobot power supply
+work fine off usb, not off 5v terminals
 
 ![yurobot power supply](./yurobot%20power%20supply.png)
+
+* Name: MB102 Breadboard Power Supply Module, Compatible with 3.3V, 5V
+* Input Voltage: DC 6.5-12V or USB power supply; 
+* Output Voltage: 3.3V, 5V Switchable; 
+* Max Output Current: 700mA
+* Two way independent control, can be switched to 0V, 3.3V, 5V
+* On-board Two sets of 3.3V, 5V DC output pins, Facilitate the external leads.
+* There is a green LED to indicate the presence of power, and an ON / OFF latching switch to control the power to the board.
+
+## 5A DC 9,12,24 to 5v Buck Converter
+
+![12to5v5Aps](./dc6-9-12-24%20to%205vBuckConv.png)
+
+Specification:
+
+* Input Voltage: 9V- 36V
+* Output Voltage: 5-5.3V
+* Output Power When Input Different Voltage:
+  * DC 9-24V, output 5.2V/6A/30W
+  * DC 24-32V, output 5.2V/5A/25W
+  * DC 32-36V, output 5.2V/3.5A/18W
+Dimension: 63×27×10mm (L× W × H)
