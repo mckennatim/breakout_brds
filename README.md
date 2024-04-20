@@ -1,5 +1,11 @@
 # Breakout Boards
 (git push from powershell terminal)
+## Boards
+
+
+## Switches
+
+
 ## Sensors
 
 - [FC-28 moisture (analog or digital)](#fc-28_moisture-(analog/digital))
@@ -16,7 +22,14 @@ SPI
 ## Power
 - [Yurobot power supply](#yurobot-power-supply)
 - [Tiny 12V to 5V Buck Converter](#tiny-12v-to-5v-buck-converter)
+## boards
+XH-M203 Water Level Controller Board AC/DC 12V
+![](waterlevelcontrol.png)
+## switches
+### water level sensor
+![](waterlevelsensor.png)
 
+Maxmoral 2pcs Water Level Sensor DC 110V Side Mount Horizontal Liquid Float Switch for Aquarium Tank
 
 ## sensors
 
